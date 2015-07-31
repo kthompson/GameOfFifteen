@@ -1,0 +1,14 @@
+bin
+obj
+*.user
+*.suo
+*.resharper
+*.ReSharper
+_ReSharper.*
+*.vsp
+*.psess
+*.coverage
+*.orig
+packages/
+*.ncrunchproject
+*.ncrunchsolution
